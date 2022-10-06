@@ -1,7 +1,11 @@
-### Hello 👋
-I'm a student
+### I'm Marco
+---
+Here I may publish code
 <!--
-**marvmarco/marvmarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-Pin repositories or contributions 
+-Can add:
+badges
+social
 
 Here are some ideas to get you started:
 
