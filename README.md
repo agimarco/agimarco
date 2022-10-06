@@ -5,7 +5,7 @@ Here I may publish code
 -Pin repositories or contributions 
 -Can add:
 badges
-social
+social ( svg for icons https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg )
 
 Here are some ideas to get you started:
 
