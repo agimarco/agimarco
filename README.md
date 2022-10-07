@@ -1,6 +1,6 @@
 ### Marco
 ---
-Interested in software engineering, system design, web applications, AI and web3 
+Here I publish code
 
 <!--
 To do:
