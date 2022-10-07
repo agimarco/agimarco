@@ -1,13 +1,14 @@
-### I'm Marco
+### Marco
 ---
-Here I may publish code
-<!--
--Pin repositories or contributions 
--Can add:
-badges
-social ( svg for icons https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg )
+Interested in software engineering, system design, web applications, AI and web3 
 
-Here are some ideas to get you started:
+<!--
+To do:
++ Pin repositories or contributions 
++ Can add:
+- badges
+- social ( svg for icons https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg )
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
