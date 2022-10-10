@@ -2,6 +2,9 @@
 ---
 Here I publish code
 
+<a href="https://stackoverflow.com/users/3287144/marcopgp"><img src="https://worldvectorlogo.com/download/stack-overflow.svg" height="50"></img></a>
+<a href="https://www.linkedin.com/in/collepiccolomarco"><img src="https://worldvectorlogo.com/download/linkedin-icon-2.svg" height="50"></img></a>
+
 <!--
 To do:
 + Pin repositories or contributions 
