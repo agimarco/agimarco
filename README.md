@@ -2,7 +2,7 @@
 ---
 Here I publish code
 
-<a href="https://stackoverflow.com/users/3287144/marcopgp"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" height="20"></img></a>
+<a href="https://stackoverflow.com/users/3287144/agimarco"><img src="https://cdn.worldvectorlogo.com/logos/stack-overflow.svg" height="20"></img></a>
 <a href="https://www.linkedin.com/in/collepiccolomarco"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" height="20"></img></a>
 
 <!--
